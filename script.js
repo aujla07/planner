@@ -7,3 +7,19 @@ setInterval(function(){
 // console.log(currenttime)
     $("#currentDay").text(currenttime)
  }, 1000);
+
+
+  
+
+
+// function to change background color based on time
+
+
+// sets stored tasks from local storage to inputs
+
+
+// function to save content entered into input 
+
+        // sets array to local storage
+       
+
